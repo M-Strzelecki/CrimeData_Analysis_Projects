@@ -17,7 +17,7 @@ This chart shows that theft-related offences significantly outnumber other crime
 This graph highlights offences like "Other drug offences" and "Robbery of an establishment," which are less frequent but still notable. Drug-related offences indicate ongoing issues with controlled substances, while the steady rate of robberies suggests a continued risk to businesses.
 
 ### 3. Trend of Selected Offences (2015 - 2023) - Theft, Public Order, and Disorderly Conduct
-![Trend of Selected Offences - Theft, Public Order, Disorderly Conduct](1_Crime_Data_Analysis/Images/Trend_of_Selected_Offences(2015-2023).png)
+![Trend of Selected Offences - Theft, Public Order, Disorderly Conduct](Images/Trend_of_Selected_Offences(2015-2023).png)
 
 Theft-related offences show a significant decline around 2020, likely due to COVID-19 lockdowns, followed by a return to previous levels. "Public order" and "Disorderly conduct" offences remain stable, showing consistent challenges in maintaining public order.
 
