@@ -32,7 +32,7 @@ Theft-related offences show a significant decline around 2020, likely due to COV
 This graph shows fluctuations in offences like "Blackmail or extortion" and "Offences against government," possibly tied to specific events. "Endangering traffic" and "Possession of firearms" remain stable, indicating steady enforcement or societal norms.
 
 ### 6. Trends of Selected Offences with 10-200 Occurrences (2003 - 2023)
-![Trends of Selected Offences with 10-200 Occurrences](Images/Trends_of_Selected_Offences_with_occurrences10-200)_from(2003-2023).png)
+![Trends of Selected Offences with 10-200 Occurrences](Images/Trends_of_Selected_Offences_with_occurrences(10-200)_from(2003-2023).png)
 
 This graph covers low-frequency but serious crimes. "Aggravated sexual assault" shows a recent decline, possibly due to improved prevention. Occasional spikes in "Unseaworthy/dangerous use of boat or ship" may reflect maritime incidents or enforcement changes.
 
